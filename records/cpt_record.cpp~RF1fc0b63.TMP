@@ -1,0 +1,6 @@
+#include "cpt_record.h"
+
+cpt_record::cpt_record()
+{
+
+}

@@ -1,0 +1,11 @@
+#ifndef CPT_RECORD_H
+#define CPT_RECORD_H
+
+
+class cpt_record
+{
+public:
+    cpt_record();
+};
+
+#endif // CPT_RECORD_H

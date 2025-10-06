@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>charts/Robertson.png</file>
+        <file>connected.png</file>
+        <file>uncon.png</file>
+        <file>../qt-toast/src/icons/close.png</file>
+        <file>../qt-toast/src/icons/error.png</file>
+        <file>../qt-toast/src/icons/information.png</file>
+        <file>../qt-toast/src/icons/success.png</file>
+        <file>../qt-toast/src/icons/warning.png</file>
+        <file>../qt-toast/src/Enums.h</file>
+        <file>../qt-toast/src/Toast.cpp</file>
+        <file>../qt-toast/src/Toast.h</file>
+        <file>charts/RobertsonChart3.png</file>
+    </qresource>
+</RCC>
